@@ -115,7 +115,7 @@
       "IsEquippable": false,
       "IsWearable": false,
       "Mod": "Core",
-      "BasePrice": 70,
+      "BasePrice": 750,
       "Category": "Drugs",
       "Enabled": true,
       "modactive": false
