@@ -1349,7 +1349,7 @@
     "CustomData": ""
   },
   "captolamia": {
-    "Enabled": true,
+    "Enabled": false,
     "CooldownSeconds": 0,
     "Cost": 0,
     "SupportsCost": false,
