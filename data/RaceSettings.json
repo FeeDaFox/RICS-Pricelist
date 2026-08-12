@@ -6,7 +6,7 @@
     "BasePrice": 1750,
     "MinAge": 16,
     "MaxAge": 65,
-    "AllowCustomXenotypes": true,
+    "AllowCustomXenotypes": false,
     "DefaultXenotype": "Baseliner",
     "PreferredPawnKindDefName": null,
     "AllowedGenders": {
@@ -4950,7 +4950,7 @@
     "BasePrice": 1750,
     "MinAge": 16,
     "MaxAge": 65,
-    "AllowCustomXenotypes": true,
+    "AllowCustomXenotypes": false,
     "DefaultXenotype": "Baseliner",
     "PreferredPawnKindDefName": null,
     "AllowedGenders": {
@@ -7010,7 +7010,7 @@
     "BasePrice": 2500,
     "MinAge": 16,
     "MaxAge": 65,
-    "AllowCustomXenotypes": true,
+    "AllowCustomXenotypes": false,
     "DefaultXenotype": "Baseliner",
     "PreferredPawnKindDefName": null,
     "AllowedGenders": {
@@ -8246,7 +8246,7 @@
     "BasePrice": 1500,
     "MinAge": 16,
     "MaxAge": 65,
-    "AllowCustomXenotypes": true,
+    "AllowCustomXenotypes": false,
     "DefaultXenotype": "BS_TVAndroid",
     "PreferredPawnKindDefName": null,
     "AllowedGenders": {
